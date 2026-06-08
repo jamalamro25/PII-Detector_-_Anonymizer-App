@@ -8,3 +8,4 @@ openpyxl>=3.1.0
 plotly>=5.18.0
 faker>=20.0.0
 streamlit-option-menu>=0.3.6
+numpy==1.26.4
