@@ -621,7 +621,7 @@ elif selected == "About":
         'for Structured and Unstructured Social Care Data"'
         '</div>'
         '<div style="margin-top:20px;display:flex;gap:12px;justify-content:center;">'
-        '<a href="https://github.com/jamalamro" target="_blank" style="text-decoration:none;">'
+        '<a href="https://github.com/jamalamro25" target="_blank" style="text-decoration:none;">'
         '<div style="background:rgba(201,168,76,.15);border:1px solid rgba(201,168,76,.4);'
         'border-radius:8px;padding:8px 20px;color:#c9a84c;font-size:13px;font-weight:600;">'
         '🐙 GitHub</div></a>'
